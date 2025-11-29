@@ -5,14 +5,14 @@ The primary goal was to make the storefront more appealing, optimize navigation,
 
 ---
 
-## 📘 Overview
+##  Overview
 
 The project focused on enhancing the Shopify store by customizing the theme, integrating plugins, and improving responsiveness across devices.  
 Key outcomes included **improved UX, modern design, and measurable sales growth**.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Improve the website’s overall appearance and user interface.  
 - Increase sales through optimized navigation and product presentation.  
@@ -28,6 +28,7 @@ Key outcomes included **improved UX, modern design, and measurable sales growth*
 - Applied Shopify Liquid code adjustments for layout and styling.  
 - Enhanced user experience through optimized visual elements.  
 - Focused on responsive design for mobile and desktop compatibility.
+
 
 
 
@@ -74,20 +75,42 @@ Key outcomes included **improved UX, modern design, and measurable sales growth*
 
 ### Before Customization
 
-| Screenshot | Link |
-|------------|------|
-| Before Layout 1 | [Screenshot](https://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/After_customization%20.jpg) |
-| Before Layout 2 | [Screenshot](https://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/Screenshot%202025-10-30%20170425.png) |
-| Before Layout 3 | [Screenshot](http://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/Screenshot%202025-10-30%20170446.png) |
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/iqrabatool1/Shopify-Theme-Customization/raw/main/Before_Customization.jpg" width="250">
+      <p align="center">Before Customization 1</p>
+    </td>
+    <td>
+      <img src="https://github.com/iqrabatool1/Shopify-Theme-Customization/raw/main/Before_Customization%20.jpg" width="250">
+      <p align="center">Before Customization 2</p>
+    </td>
+    <td>
+      <img src="https://github.com/iqrabatool1/Shopify-Theme-Customization/raw/main/Before_Customization%20.%20jpg" width="250">
+      <p align="center">Before Customization 3</p>
+    </td>
+  </tr>
+</table>
 
 ### After Customization
 
-| Screenshot | Link |
-|------------|------|
-| After Layout 1 | [Screenshot](https://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/Screenshot%202025-10-30%20170225.png) |
-| After Layout 2 | [Screenshot](https://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/Screenshot%202025-10-30%20170242.png) |
-| After Layout 3 | [Screenshot](https://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/Screenshot%202025-10-30%20170315.png) |
-| After Layout 4 | [Screenshot](http://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/Screenshot%202025-10-30%20170331.png) |
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/iqrabatool1/Shopify-Theme-Customization/raw/main/Home_page_after_customization.jpg" width="250">
+      <p align="center">After Customization 1</p>
+    </td>
+    <td>
+      <img src="https://github.com/iqrabatool1/Shopify-Theme-Customization/raw/main/After_customization.jpg" width="250">
+      <p align="center">After Customization 2</p>
+    </td>
+    <td>
+      <img src="https://github.com/iqrabatool1/Shopify-Theme-Customization/raw/main/After_customization%20.jpg" width="250">
+      <p align="center">After Customization 3</p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -95,10 +118,19 @@ Key outcomes included **improved UX, modern design, and measurable sales growth*
 
 After completing the theme customization, the client’s store experienced a **20% increase in sales** due to improved user experience and optimized product visibility.
 
-| Stage | Description | Screenshot Link |
-|-------|-------------|----------------|
-| Before Customization | Sales performance before theme optimization; outdated layout and limited engagement. | [Sales Before](https://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/Sales_Before) |
-| After Customization | Sales improved significantly after implementing design changes and plugin automation. | [Sales After](https://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/Sales_after) <br> [PNG](https://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/Sales_After.png) |
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/iqrabatool1/Shopify-Theme-Customization/raw/main/Sales_Before" width="300">
+      <p align="center"><strong>Before Customization:</strong> Sales performance before theme optimization. The store had an outdated layout and limited engagement.</p>
+    </td>
+    <td>
+      <img src="https://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/Sales_After.png" width="300">
+      <p align="center"><strong>After Customization:</strong> Sales improved significantly after implementing design changes and plugin automation.</p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
