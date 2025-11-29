@@ -29,6 +29,8 @@ Key outcomes included **improved UX, modern design, and measurable sales growth*
 - Enhanced user experience through optimized visual elements.  
 - Focused on responsive design for mobile and desktop compatibility.
 
+
+
 ---
 
 ## Method / Approach
