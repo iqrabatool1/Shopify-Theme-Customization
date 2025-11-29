@@ -74,7 +74,7 @@ Key outcomes included **improved UX, modern design, and measurable sales growth*
 
 | Screenshot | Link |
 |------------|------|
-| Before Layout 1 | [Screenshot](https://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/Screenshot%202025-10-30%20170415.png) |
+| Before Layout 1 | [Screenshot](https://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/After_customization%20.jpg) |
 | Before Layout 2 | [Screenshot](https://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/Screenshot%202025-10-30%20170425.png) |
 | Before Layout 3 | [Screenshot](http://github.com/iqrabatool1/Shopify-Theme-Customization/blob/main/Screenshot%202025-10-30%20170446.png) |
 
